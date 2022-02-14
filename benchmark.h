@@ -1,5 +1,3 @@
-//
-// Basic instrumentation profiler by Cherno
 
 // Usage: include this header file somewhere in your code (eg. precompiled
 // header), and then use like:
